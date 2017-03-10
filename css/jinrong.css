@@ -1,0 +1,153 @@
+.content{
+	width: 100%;
+	background:#edf5ff;
+	margin-top: 20px;
+}
+.content-fo{
+	width: 1200px;
+	margin:0 auto;
+	background:#f8fbff;
+}
+.content-fo h1{
+	text-align: center;
+	padding-top: 90px;
+	color:#ffa212;
+	font-size: 60px;
+	text-shadow:2px 3px 2px #ccc;
+}
+.tree{
+	width: 166px;
+	height: 737px;
+	background:url(../images/1.png) no-repeat;
+	margin:0 auto;
+	position: relative;
+}
+.tree-ti1,.tree-ti2{
+	width: 300px;
+    position: absolute;
+    left: 170px;
+    top: 60px;
+}
+.tree-ti1 h3,.tree-ti2 h3{
+	color: #075eec;
+}
+.tree-ti1 p,.tree-ti2 p{
+	color: #476990;
+	font-size: 14px;
+}
+.tree-ti2{
+	text-align: right;
+    position: absolute;
+    left: -305px;
+    top: 135px;
+}
+.ti3{
+	position: absolute;
+    left: 170px;
+    top: 225px;
+}
+.ti3 span{
+	width: 300px;
+    height: 167px;
+    background: url(../images/14.png) no-repeat;
+    display: block;
+    margin-left: -15px;
+    background-size: 100% 100%;
+}
+.ti3 p{
+	padding: 5px 0 0 20px;
+	float: left;
+}
+.ti4{
+	position: absolute;
+    left: -270px;
+    top: 320px;
+}
+.ti4 span{
+	width: 300px;
+    height: 250px;
+	background:url(../images/15.png) no-repeat;
+	background-size: 100% 100%;
+	display: block;
+	text-align: left;
+}
+.ti4 p{
+	padding: 5px 0 0 20px;
+	float: left;
+}
+.ti4-div{
+    width: 200px;
+    background: #d4e0f2;
+    float: left;
+    margin: 5px 0 0 35px;
+}
+.ti4-div dt{
+	color: #476990;
+	font-size: 12px;
+	font-weight: bold;
+}
+.ti4-div dd{
+	color: #476990;
+	font-size: 12px;
+}
+.ti5{
+	position: absolute;
+    left: 170px;
+    top: 540px;
+}
+.tree-butoom{
+	width: 103%;
+	margin:0 auto;
+	color: #075eec;
+	text-align: center;
+}
+.tree-butoom1{
+	width: 900px;
+	height: 140px;
+	background:url(../images/16.png) no-repeat;
+	background-size: 100% 100%;
+	margin:0 auto;
+}
+.tree-butoom1 p{
+	color: #476990;
+	font-size: 14px;
+	float: left;
+    padding: 10px 0 0 30px;
+}
+.tree-butoom1 span{
+	width: 20px;
+    height: 20px;
+    background: #fab30c;
+    display: block;
+    border-radius: 50%;
+    text-align: center;
+    color: #fff;
+    float: left;
+}
+.tree-btn{
+	width: 350px;
+    height: 50px;
+    background: #f3dc14;
+    color: #6c4d0a;
+    border-radius: 10px 10px 10px 10px;
+    font-size: 20px;
+    font-weight: bold;
+    border: none;
+    margin: 60px 0 20px 35%;
+    text-shadow: 1px 2px 3px #ccc;
+
+}
+.content-p{
+	width: 100%;
+	margin: 0 auto;
+}
+.content-p p{
+	text-align: center;
+	color: #476990;
+}
+.content-p p:nth-child(2){
+	padding:40px 0 30px 0;
+}
+.content-p a{
+	color: #075eec;
+}

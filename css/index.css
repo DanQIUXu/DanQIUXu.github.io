@@ -1,0 +1,36 @@
+
+
+/*视图*/
+
+.main1-cg,.main1-gy,.main1-jr{
+	width: 199px;
+	height: 252px;
+	
+	float: left;
+	margin: 100px 0 130px 100px;
+	text-align: center;
+    opacity: 0.8;
+    background: #fff;
+}
+.main1-cg:hover,.main1-gy:hover,.main1-jr:hover{
+	background: url(../images/9.jpg);
+	opacity: 1;
+}
+.main1-cg a,.main1-gy a,.main1-jr a{
+	color: #075eec;
+}
+.main1-cg span,.main1-gy span,.main1-jr span{
+	width: 91px;
+	height: 101px;
+	display: block;
+	margin: 30px auto;
+}
+.main1-cg span{
+	background: url(../images/11.png) no-repeat -211px -1px;
+}
+.main1-gy span{
+	background: url(../images/11.png) no-repeat -304px -1px;
+}
+.main1-jr span{
+	background: url(../images/11.png) no-repeat -116px -1px;
+}
